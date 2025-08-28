@@ -16,18 +16,6 @@ A **professional Tor-based IP changer for Linux**. Rotate your IP easily using T
 
 ---
 
-## ASCII Banner
-
-._____________          _________     _____    _______    _____________________________ 
-|   \______   \         \_   ___ \   /  _  \   \      \  /  _____/\_   _____/\______   \
-|   ||     ___/  ______ /    \  \/  /  /_\  \  /   |   \/   \  ___ |    __)_  |       _/
-|   ||    |     /_____/ \     \____/    |    \/    |    \    \_\  \|        \ |    |   \
-|___||____|              \______  /\____|__  /\____|__  /\______  /_______  / |____|_  /
-                                \/         \/         \/        \/        \/         \/ 
-                      Author: CYBER-DOME007
-
----
-
 ## Installation
 
 Clone the repository and run the tool:
